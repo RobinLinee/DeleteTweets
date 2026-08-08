@@ -16,7 +16,7 @@ DeleteTweets is a Chrome and Edge extension that bulk-deletes your X (Twitter) h
 | Browser | Link |
 |---|---|
 | Chrome | [Chrome Web Store](https://chromewebstore.google.com/detail/plolbhegbeapkdmpnbabilmfnknlfbpa) |
-| Edge | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/<EDGE_ID>) |
+| Edge | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/eppcomaofppllfbbnfibdmodgpjdjlpl) |
 
 ---
 
